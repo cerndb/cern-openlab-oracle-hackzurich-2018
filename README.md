@@ -12,7 +12,7 @@ In 2013, CERN opened its doors to the public in the [CERN Open Days 2013](https:
 
 Probably [visit-points](visit-points) is going to be the most interesting datasource for you. It contains all the information, like coordinates, description, pictures, about the different visit points at CERN, like the [ATLAS exhibition point](https://github.com/cerndb/cern-openlab-oracle-hackzurich-2018/blob/master/visit-points/all_points_full.json#L46)
 
-Last, but not least, in [logos](logos) folder you will find a selection of CERN logos.  
+Last, but not least, in the [logo](logo) folder you will find a selection of CERN logos.  
 
 ## Other information
 ### Sounds from the LHC!
