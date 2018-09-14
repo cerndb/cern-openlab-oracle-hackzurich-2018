@@ -54,7 +54,7 @@
         },
         "geo": {
           "lat": 46.251000000000005,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2490666&centerY=1123220&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2490666,1123220&scale=1000",
           "lon": 6.021,
           "location": [
             "2285",
@@ -159,7 +159,7 @@
         },
         "geo": {
           "lat": 46.241,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2496505&centerY=1121968&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2496505,1121968&scale=1000",
           "lon": 6.097,
           "location": [
             "2885",
@@ -263,7 +263,7 @@
         },
         "geo": {
           "lat": 46.293,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2497744&centerY=1127844&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2497744,1127844&scale=1000",
           "lon": 6.112,
           "location": [
             "2685",
@@ -367,7 +367,7 @@
         },
         "geo": {
           "lat": 46.234,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492607&centerY=1121238&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492607,1121238&scale=1000",
           "lon": 6.046,
           "location": [
             "193"
@@ -465,7 +465,7 @@
         },
         "geo": {
           "lat": 46.261,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493577&centerY=1124176&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2493577,1124176&scale=500",
           "lon": 6.058000000000001,
           "location": [
             "946"
@@ -563,7 +563,7 @@
         },
         "geo": {
           "lat": 46.257000000000005,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493577&centerY=1123778&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493577,1123778&scale=1000",
           "lon": 6.059,
           "location": [
             "866"
@@ -661,7 +661,7 @@
         },
         "geo": {
           "lat": 46.255,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493456&centerY=1123517&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493456,1123517&scale=1000",
           "lon": 6.057,
           "location": [
             "874"
@@ -759,7 +759,7 @@
         },
         "geo": {
           "lat": 46.231,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492922&centerY=1120913&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2492922,1120913&scale=500",
           "lon": 6.051,
           "location": [
             "2010-2008-162"
@@ -1687,7 +1687,7 @@
         },
         "geo": {
           "lat": 46.233000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492999&centerY=1121097&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2492999,1121097&scale=500",
           "lon": 6.0520000000000005,
           "location": [
             "27"
@@ -1785,7 +1785,7 @@
         },
         "geo": {
           "lat": 46.266000000000005,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493949&centerY=1124634&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493949,1124634&scale=1000",
           "lon": 6.064,
           "location": [
             "888"
@@ -1883,7 +1883,7 @@
         },
         "geo": {
           "lat": 46.232,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492565&centerY=1121070&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492565,1121070&scale=1000",
           "lon": 6.046,
           "location": [
             "513"
@@ -1981,7 +1981,7 @@
         },
         "geo": {
           "lat": 46.233000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492911&centerY=1121136&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2492911,1121136&scale=500",
           "lon": 6.051,
           "location": [
             "165"
@@ -2079,7 +2079,7 @@
         },
         "geo": {
           "lat": 46.230000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492956&centerY=1120808&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2492956,1120808&scale=500",
           "lon": 6.051,
           "location": [
             "154"
@@ -2177,7 +2177,7 @@
         },
         "geo": {
           "lat": 46.262,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493463&centerY=1124222&centerScale=2500",
+          "gis_url": "https://maps.cern.ch/?center=2493463,1124222&scale=2500",
           "lon": 6.058000000000001,
           "location": [
             "887"
@@ -2275,7 +2275,7 @@
         },
         "geo": {
           "lat": 46.255,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493039&centerY=1123563&centerScale=250",
+          "gis_url": "https://maps.cern.ch/?center=2493039,1123563&scale=250",
           "lon": 6.051,
           "location": [
             "969"
@@ -2373,7 +2373,7 @@
         },
         "geo": {
           "lat": 46.233000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493323&centerY=1121075&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493323,1121075&scale=1000",
           "lon": 6.056,
           "location": [
             "143"
@@ -2470,7 +2470,7 @@
         },
         "geo": {
           "lat": 46.234,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493323&centerY=1121223&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2493323,1121223&scale=500",
           "lon": 6.056,
           "location": [
             "80"
@@ -2568,7 +2568,7 @@
         },
         "geo": {
           "lat": 46.230000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493230&centerY=1120737&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493230,1120737&scale=1000",
           "lon": 6.055000000000001,
           "location": [
             "40"
@@ -2666,7 +2666,7 @@
         },
         "geo": {
           "lat": 46.231,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492700&centerY=1120928&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492700,1120928&scale=1000",
           "lon": 6.048,
           "location": [
             "150"
@@ -2764,7 +2764,7 @@
         },
         "geo": {
           "lat": 46.231,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492700&centerY=1120928&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492700,1120928&scale=1000",
           "lon": 6.048,
           "location": [
             "150"
@@ -2862,7 +2862,7 @@
         },
         "geo": {
           "lat": 46.232,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492625&centerY=1120945&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492625,1120945&scale=1000",
           "lon": 6.046,
           "location": [
             "400"
@@ -2960,7 +2960,7 @@
         },
         "geo": {
           "lat": 46.237,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492038&centerY=1121603&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492038,1121603&scale=1000",
           "lon": 6.039000000000001,
           "location": [
             "180"
@@ -3058,7 +3058,7 @@
         },
         "geo": {
           "lat": 46.232,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493112&centerY=1120978&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493112,1120978&scale=1000",
           "lon": 6.0520000000000005,
           "location": [
             "100"
@@ -3156,7 +3156,7 @@
         },
         "geo": {
           "lat": 46.234,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492855&centerY=1121201&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492855,1121201&scale=1000",
           "lon": 6.049,
           "location": [
             "130"
@@ -3253,7 +3253,7 @@
         },
         "geo": {
           "lat": 46.259,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493767&centerY=1124094&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493767,1124094&scale=1000",
           "lon": 6.061,
           "location": [
             "927"
@@ -3336,7 +3336,7 @@
         },
         "geo": {
           "lat": 46.259,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493767&centerY=1124094&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493767,1124094&scale=1000",
           "lon": 6.061,
           "location": [
             "927"
@@ -3433,7 +3433,7 @@
         },
         "geo": {
           "lat": 46.233000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493093&centerY=1121115&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2493093,1121115&scale=500",
           "lon": 6.053,
           "location": [
             "300"
@@ -3530,7 +3530,7 @@
         },
         "geo": {
           "lat": null,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492784&centerY=1121666&centerScale=2500",
+          "gis_url": "https://maps.cern.ch/?center=2492784,1121666&scale=2500",
           "lon": null,
           "location": [
             "2173"
@@ -3627,7 +3627,7 @@
         },
         "geo": {
           "lat": 46.233000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492973&centerY=1121140&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492973,1121140&scale=1000",
           "lon": 6.051,
           "location": [
             "163"
@@ -3724,7 +3724,7 @@
         },
         "geo": {
           "lat": 46.231,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493243&centerY=1120903&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493243,1120903&scale=1000",
           "lon": 6.055000000000001,
           "location": [
             "Restaurant 1"
@@ -3822,7 +3822,7 @@
         },
         "geo": {
           "lat": 46.233000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493323&centerY=1121075&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493323,1121075&scale=1000",
           "lon": 6.056,
           "location": [
             "143"
@@ -3919,7 +3919,7 @@
         },
         "geo": {
           "lat": 46.230000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493083&centerY=1120744&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2493083,1120744&scale=500",
           "lon": 6.053,
           "location": [
             "216"
@@ -4016,7 +4016,7 @@
         },
         "geo": {
           "lat": 46.231,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493154&centerY=1120908&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493154,1120908&scale=1000",
           "lon": 6.054,
           "location": [
             "510"
@@ -4114,7 +4114,7 @@
         },
         "geo": {
           "lat": 46.230000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493128&centerY=1120743&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2493128,1120743&scale=500",
           "lon": 6.053,
           "location": [
             "222"
@@ -4211,7 +4211,7 @@
         },
         "geo": {
           "lat": 46.236000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493286&centerY=1121388&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2493286,1121388&scale=500",
           "lon": 6.055000000000001,
           "location": [
             "3178"
@@ -4314,7 +4314,7 @@
         },
         "geo": {
           "lat": 46.31,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2495145&centerY=1129614&centerScale=2500",
+          "gis_url": "https://maps.cern.ch/?center=2495145,1129614&scale=2500",
           "lon": 6.077,
           "location": [
             "3585"
@@ -4417,7 +4417,7 @@
         },
         "geo": {
           "lat": 46.231,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493154&centerY=1120908&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493154,1120908&scale=1000",
           "lon": 6.054,
           "location": [
             "510"
@@ -4514,7 +4514,7 @@
         },
         "geo": {
           "lat": 46.258,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493813&centerY=1123843&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493813,1123843&scale=1000",
           "lon": 6.061,
           "location": [
             "864"
@@ -4876,7 +4876,7 @@
         },
         "geo": {
           "lat": 46.304,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2491936&centerY=1129051&centerScale=500",
+          "gis_url": "https://maps.cern.ch/?center=2491936,1129051&scale=500",
           "lon": 6.0360000000000005,
           "location": [
             "2455"
@@ -4979,7 +4979,7 @@
         },
         "geo": {
           "lat": 46.238,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492664&centerY=1121647&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492664,1121647&scale=1000",
           "lon": 6.047000000000001,
           "location": [
             "3173 (SMA18)"
@@ -5077,7 +5077,7 @@
         },
         "geo": {
           "lat": 46.236000000000004,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2492014&centerY=1121495&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2492014,1121495&scale=1000",
           "lon": 6.039000000000001,
           "location": [
             "113"
@@ -5175,7 +5175,7 @@
         },
         "geo": {
           "lat": 46.255,
-          "gis_url": "https://maps.cern.ch/mapsearch/maps_integrated/openDays2013.htm?centerX=2493491&centerY=1123519&centerScale=1000",
+          "gis_url": "https://maps.cern.ch/?center=2493491,1123519&scale=1000",
           "lon": 6.058000000000001,
           "location": [
             "870"
