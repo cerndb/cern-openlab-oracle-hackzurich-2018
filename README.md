@@ -23,3 +23,9 @@ Although you can explore the [full collection](http://cds.cern.ch/?ln=en) of CER
 CERN maintains its own [Geographic Information System](https://maps.cern.ch/). It displays useful geographic data and  allowing its users to search for buildings, rooms and locations at CERN. A [mobile application](https://smb-dep.web.cern.ch/en/content/gis_mobile) also exists.
 ### LHC data processing
 Wonder how the data produced by 600 million collisions is processed? Have a look [here](https://www.youtube.com/watch?v=jDC3-QSiLB4)
+### 360 panorama pictures
+These collection of pictures can be very useful if you think about adding some VR functionality to your app:
+- http://cds.cern.ch/record/2252595
+- http://cds.cern.ch/record/2221111
+- http://cds.cern.ch/record/2221111
+
